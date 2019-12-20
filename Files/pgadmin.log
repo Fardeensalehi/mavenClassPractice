@@ -1,0 +1,285 @@
+2019-09-03 19:52:33 ERROR  : ERROR:  syntax error at or near "actor"
+LINE 1: select first_name,last_name form actor order by first_name d...
+                                         ^
+2019-09-03 19:58:53 ERROR  : ERROR:  syntax error at or near "payment"
+LINE 1: select customer_id form payment where amount >7;
+                                ^
+2019-09-03 20:42:47 ERROR  : ERROR:  syntax error at or near "order"
+LINE 1: order by title desc;
+        ^
+2019-09-03 20:45:30 ERROR  : ERROR:  syntax error at or near "order"
+LINE 1: order by title desc;
+        ^
+2019-09-03 20:57:01 ERROR  : ERROR:  column "rownum" does not exist
+LINE 9: where rownum <= 10;
+              ^
+2019-09-03 20:57:05 ERROR  : ERROR:  column "rownum" does not exist
+LINE 2: where rownum <= 10;
+              ^
+2019-09-03 20:57:41 ERROR  : ERROR:  column "rownum" does not exist
+LINE 2: where rownum <= 10;
+              ^
+2019-09-03 20:57:51 ERROR  : ERROR:  column "rownum" does not exist
+LINE 8: where rownum <= 10;
+              ^
+2019-09-03 20:57:52 ERROR  : ERROR:  column "rownum" does not exist
+LINE 9: where rownum <= 10;
+              ^
+2019-09-03 21:00:54 ERROR  : ERROR:  syntax error at or near "where"
+LINE 2: where reting in ('R' , 'PG' ) ;
+        ^
+2019-09-03 21:01:21 ERROR  : ERROR:  syntax error at or near "where"
+LINE 2: where reting in ('R', 'PG' ) ;
+        ^
+2019-09-03 21:01:38 ERROR  : ERROR:  syntax error at or near "where"
+LINE 2: where reting in ('R', 'PG' );
+        ^
+2019-09-03 21:01:53 ERROR  : ERROR:  column "reting" does not exist
+LINE 2: where reting in ('R', 'PG' );
+              ^
+HINT:  Perhaps you meant to reference the column "film.rating".
+2019-09-03 21:02:17 ERROR  : ERROR:  column "rownum" does not exist
+LINE 9: where rownum <= 10;
+              ^
+2019-09-05 17:52:43 ERROR  : Error connecting to the server: FATAL:  password authentication failed for user "postgres"
+
+2019-09-05 18:14:35 ERROR  : ERROR:  syntax error at or near "where"
+LINE 3: where rental_id > 3000
+        ^
+2019-09-05 18:40:21 ERROR  : ERROR:  syntax error at or near ")"
+LINE 3: where rating not in ('R','G',)
+                                     ^
+2019-09-05 18:40:30 ERROR  : ERROR:  syntax error at or near ")"
+LINE 12: where rating not in ('R','G',)
+                                      ^
+2019-09-05 18:40:31 ERROR  : ERROR:  syntax error at or near ")"
+LINE 12: where rating not in ('R','G',)
+                                      ^
+2019-09-05 18:40:31 ERROR  : ERROR:  syntax error at or near ")"
+LINE 12: where rating not in ('R','G',)
+                                      ^
+2019-09-05 20:08:25 ERROR  : ERROR:  syntax error at or near "payment"
+LINE 1: select * payment where staff_id = 2 and amount > 5;
+                 ^
+2019-09-05 20:10:24 ERROR  : ERROR:  syntax error at or near "payment"
+LINE 1: select * payment where staff_id = 2 and amount > 5;
+                 ^
+2019-09-05 20:10:39 ERROR  : ERROR:  syntax error at or near "payment"
+LINE 1: select * payment where staff_id = 2 and amount > 5;
+                 ^
+2019-09-05 20:11:31 ERROR  : ERROR:  syntax error at or near "payment"
+LINE 1: select * payment where staff_id = 2 or amount > 7;
+                 ^
+2019-09-05 20:13:22 ERROR  : ERROR:  syntax error at or near "where"
+LINE 1: select * from where staff_id = 2 or amount > 7;
+                      ^
+2019-09-05 20:17:48 ERROR  : ERROR:  syntax error at or near "'3'"
+LINE 1: select * from payment where staff_id = '2' '3' and amount > ...
+                                                   ^
+2019-09-05 20:35:51 ERROR  : ERROR:  syntax error at or near ";"
+LINE 1: ...e (staff_id = 2 or customer_id = '353') and (amuont >= 3.99;
+                                                                      ^
+2019-09-05 20:36:09 ERROR  : ERROR:  column "amuont" does not exist
+LINE 1: ... where (staff_id = 2 or customer_id = '353') and (amuont >= ...
+                                                             ^
+HINT:  Perhaps you meant to reference the column "payment.amount".
+2019-09-05 20:37:34 ERROR  : ERROR:  syntax error at or near "staff"
+LINE 1: ...r customer_id = '353') and (amount >= 3.99 ) order staff-id;
+                                                              ^
+2019-09-05 20:38:11 ERROR  : ERROR:  syntax error at or near "staff_id"
+LINE 1: ...r customer_id = '353') and (amount >= 3.99 ) order staff_id;
+                                                              ^
+2019-09-05 20:38:59 ERROR  : ERROR:  syntax error at or near "staff_id"
+LINE 1: ...2 or staff_id = '353') and (amount >= 3.99 ) order staff_id;
+                                                              ^
+2019-09-05 20:57:46 ERROR  : ERROR:  syntax error at or near "where"
+LINE 1: where first_name like 'P' or first_name like 'Ni%';
+        ^
+2019-09-05 20:58:12 ERROR  : ERROR:  syntax error at or near "film"
+LINE 1: select * film actor
+                 ^
+2019-09-05 20:58:57 ERROR  : ERROR:  syntax error at or near "film"
+LINE 1: select * film actor
+                 ^
+2019-09-05 20:59:12 ERROR  : ERROR:  syntax error at or near "film"
+LINE 1: select * film actor
+                 ^
+2019-09-08 15:25:42 ERROR  : ERROR:  column "rantal_date" does not exist
+LINE 4: order by rantal_date
+                 ^
+HINT:  Perhaps you meant to reference the column "rental.rental_date".
+2019-09-08 15:31:20 ERROR  : ERROR:  syntax error at or near ")"
+LINE 12: where rating not in ('R','G',)
+                                      ^
+2019-09-08 16:06:23 ERROR  : ERROR:  unterminated quoted string at or near "'2005-03-31 12:00:00;"
+LINE 3: ...ere rental_date between '2005-01-01 08:00:00' and '2005-03-3...
+                                                             ^
+2019-09-08 16:06:34 ERROR  : ERROR:  syntax error at or near ")"
+LINE 12: where rating not in ('R','G',)
+                                      ^
+2019-09-08 16:06:45 ERROR  : ERROR:  unterminated quoted string at or near "'2006-03-31 12:00:00;"
+LINE 3: ...ere rental_date between '2005-01-01 08:00:00' and '2006-03-3...
+                                                             ^
+2019-09-08 16:07:09 ERROR  : ERROR:  unterminated quoted string at or near "'2006-01-01 12:00:00;"
+LINE 3: ...ere rental_date between '2005-01-01 08:00:00' and '2006-01-0...
+                                                             ^
+2019-09-08 16:14:25 ERROR  : ERROR:  syntax error at or near "from"
+LINE 2: from payment
+        ^
+2019-09-08 16:26:25 ERROR  : ERROR:  syntax error at or near "date"
+LINE 4: where payment date between '2007-01-01 08:00:00' and '2007-0...
+                      ^
+2019-09-08 16:27:10 ERROR  : ERROR:  syntax error at or near "date"
+LINE 4: where payment date between '2007-01-01 08:00:00' and '2007-0...
+                      ^
+2019-09-08 16:27:47 ERROR  : ERROR:  syntax error at or near "from"
+LINE 1: from payment
+        ^
+2019-09-08 16:29:21 ERROR  : ERROR:  syntax error at or near "date"
+LINE 4: where payment date between '2007-01-01 08:00:00' and '2007-0...
+                      ^
+2019-09-08 16:31:01 ERROR  : ERROR:  syntax error at or near "of"
+LINE 1: ...d)as "number of records",avg(amount) as "average" of the pay...
+                                                             ^
+2019-09-08 16:52:32 ERROR  : ERROR:  syntax error at or near "from"
+LINE 2: from from film descriprtion
+             ^
+2019-09-08 16:52:45 ERROR  : ERROR:  syntax error at or near "of"
+LINE 3: order of english language;
+              ^
+2019-09-08 16:52:59 ERROR  : ERROR:  syntax error at or near "language"
+LINE 3: order by english language;
+                         ^
+2019-09-08 16:53:51 ERROR  : ERROR:  syntax error at or near "language"
+LINE 4: order by english language;
+                         ^
+2019-09-08 16:54:48 ERROR  : ERROR:  argument of WHERE must be type boolean, not type smallint
+LINE 3: where language_id
+              ^
+2019-09-08 16:55:52 ERROR  : ERROR:  syntax error at or near "and"
+LINE 2: from film "descriprtion" and film_title
+                                 ^
+2019-09-08 16:56:14 ERROR  : ERROR:  syntax error at or near "and"
+LINE 2: from film "descriprtion" and "title"
+                                 ^
+2019-09-10 15:37:06 ERROR  : ERROR:  syntax error at or near ";"
+LINE 5: ;
+        ^
+2019-09-10 15:37:37 ERROR  : ERROR:  column "amount3000" does not exist
+LINE 3: where amount3000
+              ^
+2019-09-10 15:37:41 ERROR  : ERROR:  column "amount3000" does not exist
+LINE 3: where amount3000
+              ^
+2019-09-10 15:37:53 ERROR  : ERROR:  syntax error at or near "3000"
+LINE 3: where amount 3000
+                     ^
+2019-09-10 15:38:07 ERROR  : ERROR:  syntax error at or near "3"
+LINE 3: where amount 3k
+                     ^
+2019-09-10 15:38:31 ERROR  : ERROR:  syntax error at or near ""3k""
+LINE 3: where amount "3k"
+                     ^
+2019-09-10 15:38:42 ERROR  : ERROR:  syntax error at or near ""3""
+LINE 3: where amount "3"k
+                     ^
+2019-09-10 15:38:48 ERROR  : ERROR:  syntax error at or near ""3""
+LINE 3: where amount "3"
+                     ^
+2019-09-10 15:41:33 ERROR  : ERROR:  unterminated quoted identifier at or near ""3k)
+;
+"
+LINE 3: where value ("3k)
+                     ^
+2019-09-10 15:41:53 ERROR  : ERROR:  function value(unknown) does not exist
+LINE 3: where value ('3k')
+              ^
+HINT:  No function matches the given name and argument types. You might need to add explicit type casts.
+2019-09-10 15:46:02 ERROR  : ERROR:  column "amunt" does not exist
+LINE 4: order by amunt desc
+                 ^
+HINT:  Perhaps you meant to reference the column "payment.amount".
+2019-09-10 15:54:25 ERROR  : ERROR:  syntax error at or near "order"
+LINE 4: order by
+        ^
+2019-09-10 16:12:38 ERROR  : ERROR:  column "rental" does not exist
+LINE 3: where rental =0.99
+              ^
+2019-09-10 16:12:57 ERROR  : ERROR:  syntax error at or near "0.99"
+LINE 3: where rental 0.99
+                     ^
+2019-09-10 16:13:40 ERROR  : ERROR:  syntax error at or near "rate"
+LINE 3: where rental rate ='0.99
+                     ^
+2019-09-10 16:48:54 ERROR  : ERROR:  relation "customers" does not exist
+LINE 2: from customers
+             ^
+2019-09-10 16:49:06 ERROR  : ERROR:  syntax error at or near ";"
+LINE 5: ;
+        ^
+2019-09-10 16:49:10 ERROR  : ERROR:  column "customername" does not exist
+LINE 3: order by customername asc;
+                 ^
+2019-09-10 16:49:52 ERROR  : ERROR:  relation "customers" does not exist
+LINE 2: from customers
+             ^
+2019-09-10 16:50:08 ERROR  : ERROR:  syntax error at or near "AS"
+LINE 3: order by customer_name AS
+                               ^
+2019-09-10 18:29:52 ERROR  : ERROR:  unterminated quoted string at or near "'london%;"
+LINE 2: where city like 'london%;
+                        ^
+2019-09-10 18:33:24 ERROR  : ERROR:  syntax error at or near "store_id"
+LINE 1: select * store_id
+                 ^
+2019-09-10 18:34:56 ERROR  : ERROR:  syntax error at or near "store_id"
+LINE 1: select * store_id
+                 ^
+2019-09-10 18:34:59 ERROR  : ERROR:  syntax error at or near ";"
+LINE 5: ;
+        ^
+2019-09-10 18:37:00 ERROR  : ERROR:  syntax error at or near "store_id"
+LINE 1: select * store_id,country_id
+                 ^
+2019-09-10 18:59:53 ERROR  : ERROR:  column "customer_name" does not exist
+LINE 3: order by customer_name ASC;
+                 ^
+2019-09-10 19:00:01 ERROR  : ERROR:  syntax error at or near "rate"
+LINE 3: where rental rate (0.99)
+                     ^
+2019-09-10 20:30:22 ERROR  : ERROR:  relation "actore" does not exist
+LINE 5: from actore;
+             ^
+2019-09-12 18:20:32 ERROR  : ERROR:  column "actor.last_name" must appear in the GROUP BY clause or be used in an aggregate function
+LINE 1: select distinct first_name, last_name
+                                    ^
+2019-09-12 18:20:53 ERROR  : ERROR:  column "actor.last_name" must appear in the GROUP BY clause or be used in an aggregate function
+LINE 1: select distinct first_name ,last_name
+                                    ^
+2019-09-12 18:21:03 ERROR  : ERROR:  column "actor.last_name" must appear in the GROUP BY clause or be used in an aggregate function
+LINE 1: select distinct first_name , last_name
+                                     ^
+2019-09-12 18:21:22 ERROR  : ERROR:  column "actor.last_name" must appear in the GROUP BY clause or be used in an aggregate function
+LINE 1: select  first_name , last_name
+                             ^
+2019-09-12 18:21:31 ERROR  : ERROR:  column "actor.last_name" must appear in the GROUP BY clause or be used in an aggregate function
+LINE 1: select first_name , last_name
+                            ^
+2019-09-12 18:29:40 ERROR  : ERROR:  relation "actore" does not exist
+LINE 2: from actore
+             ^
+2019-09-12 18:30:20 ERROR  : ERROR:  relation "actore" does not exist
+LINE 2: from actore
+             ^
+2019-09-12 18:30:28 ERROR  : ERROR:  relation "actore" does not exist
+LINE 2: from actore
+             ^
+2019-09-12 18:30:38 ERROR  : ERROR:  relation "actore" does not exist
+LINE 2: from actore
+             ^
+2019-11-24 13:38:12 ERROR  : ERROR:  syntax error at or near "actore"
+LINE 1: select * actore
+                 ^
+2019-11-24 13:38:20 ERROR  : ERROR:  syntax error at or near "actor"
+LINE 1: select * actor
+                 ^

@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PremiereData Version="3">
+	<recentcontainers Version="2">
+		<containercount>1</containercount>
+		<container.0 Version="1">
+			<containeritemcount>2</containeritemcount>
+			<containeritem.1 Version="1">
+				<containerpath>volumes:</containerpath>
+				<containername>Local Drives</containername>
+			</containeritem.1>
+			<containeritem.0 Version="1">
+				<containerpath>/Y/Y?/YE:/Y</containerpath>
+				<containername>E: (My passport)</containername>
+			</containeritem.0>
+		</container.0>
+	</recentcontainers>
+</PremiereData>

@@ -1,0 +1,93 @@
+Log file created: 5/14/2018 7:22:59 PM
+----------------------------------------
+Ticks = 1281      <14636> <Wasapi initialization> <5> Time =  0.0248294second
+Ticks = 1562      <14636> <DS> <5> GPUSniffer launching with test mask 254
+Ticks = 10015      <14636> <AMEApp> <0> Time taken to load MediaCore plugins: 7866.75 milliseconds.
+Ticks = 10718      <8436> <LoadProject> <0> 0.0874478s
+Ticks = 11703      <14636> <AMEApp> <1> Entering RunEventLoop
+Ticks = 11875      <14636> <EncoderMsdkH264> <5> Using Intel Media SDK - D3D11 HW mode for encoding
+Ticks = 17953      <14636> <dvanet> <5> ProxyProcessor::DestroyVulcanClient resetting mVulcanClient
+Ticks = 17953      <14636> <dvanet> <5> ProxyProcessor::DestroyVulcanClient resetting mVulcanClient
+Ticks = 17953      <14636> <dvanet> <5> ProxyProcessor::DestroyVulcanClient resetting mVulcanClient
+Ticks = 17953      <14636> <dvanet> <5> ProxyProcessor::DestroyVulcanClient resetting mVulcanClient
+Ticks = 17953      <14636> <dvanet> <5> ProxyProcessor::DestroyVulcanClient resetting mVulcanClient
+Ticks = 17953      <14636> <dvanet> <5> ProxyProcessor::DestroyVulcanClient resetting mVulcanClient
+Ticks = 17953      <14636> <dvanet> <5> ProxyProcessor::DestroyVulcanClient resetting mVulcanClient
+Ticks = 17984      <14636> <dvanet> <5> ProxyProcessor::DestroyVulcanClient resetting mVulcanClient
+Ticks = 17984      <14636> <dvanet> <5> ProxyProcessor::DestroyVulcanClient resetting mVulcanClient
+Ticks = 17984      <14636> <dvanet> <5> ProxyProcessor::DestroyVulcanClient resetting mVulcanClient
+Ticks = 17984      <14636> <dvanet> <5> ProxyProcessor::DestroyVulcanClient resetting mVulcanClient
+Ticks = 17984      <14636> <dvanet> <5> ProxyProcessor::DestroyVulcanClient resetting mVulcanClient
+Ticks = 17984      <14636> <dvanet> <5> ProxyProcessor::DestroyVulcanClient resetting mVulcanClient
+Ticks = 17984      <14636> <dvanet> <5> ProxyProcessor::DestroyVulcanClient resetting mVulcanClient
+Ticks = 21297      <14636> <dvanet> <5> ProxyProcessor::DestroyVulcanClient resetting mVulcanClient
+Ticks = 21297      <14636> <dvanet> <5> ProxyProcessor::DestroyVulcanClient resetting mVulcanClient
+Ticks = 21297      <14636> <dvanet> <5> ProxyProcessor::DestroyVulcanClient resetting mVulcanClient
+Ticks = 21297      <14636> <dvanet> <5> ProxyProcessor::DestroyVulcanClient resetting mVulcanClient
+Ticks = 21297      <14636> <dvanet> <5> ProxyProcessor::DestroyVulcanClient resetting mVulcanClient
+Ticks = 21297      <14636> <dvanet> <5> ProxyProcessor::DestroyVulcanClient resetting mVulcanClient
+Ticks = 21297      <14636> <dvanet> <5> ProxyProcessor::DestroyVulcanClient resetting mVulcanClient
+Ticks = 23468      <14636> <dvanet> <5> ProxyProcessor::DestroyVulcanClient resetting mVulcanClient
+Ticks = 23468      <14636> <dvanet> <5> ProxyProcessor::DestroyVulcanClient resetting mVulcanClient
+Ticks = 23468      <14636> <dvanet> <5> ProxyProcessor::DestroyVulcanClient resetting mVulcanClient
+Ticks = 23468      <14636> <dvanet> <5> ProxyProcessor::DestroyVulcanClient resetting mVulcanClient
+Ticks = 23468      <14636> <dvanet> <5> ProxyProcessor::DestroyVulcanClient resetting mVulcanClient
+Ticks = 23468      <14636> <dvanet> <5> ProxyProcessor::DestroyVulcanClient resetting mVulcanClient
+Ticks = 23468      <14636> <dvanet> <5> ProxyProcessor::DestroyVulcanClient resetting mVulcanClient
+Ticks = 23515      <14636> <dvanet> <5> ProxyProcessor::DestroyVulcanClient resetting mVulcanClient
+Ticks = 23515      <14636> <dvanet> <5> ProxyProcessor::DestroyVulcanClient resetting mVulcanClient
+Ticks = 23515      <14636> <dvanet> <5> ProxyProcessor::DestroyVulcanClient resetting mVulcanClient
+Ticks = 23515      <14636> <dvanet> <5> ProxyProcessor::DestroyVulcanClient resetting mVulcanClient
+Ticks = 23515      <14636> <dvanet> <5> ProxyProcessor::DestroyVulcanClient resetting mVulcanClient
+Ticks = 23515      <14636> <dvanet> <5> ProxyProcessor::DestroyVulcanClient resetting mVulcanClient
+Ticks = 23515      <14636> <dvanet> <5> ProxyProcessor::DestroyVulcanClient resetting mVulcanClient
+Ticks = 29015      <14636> <dvanet> <5> ProxyProcessor::DestroyVulcanClient resetting mVulcanClient
+Ticks = 29015      <14636> <dvanet> <5> ProxyProcessor::DestroyVulcanClient resetting mVulcanClient
+Ticks = 29015      <14636> <dvanet> <5> ProxyProcessor::DestroyVulcanClient resetting mVulcanClient
+Ticks = 29015      <14636> <dvanet> <5> ProxyProcessor::DestroyVulcanClient resetting mVulcanClient
+Ticks = 29015      <14636> <dvanet> <5> ProxyProcessor::DestroyVulcanClient resetting mVulcanClient
+Ticks = 29015      <14636> <dvanet> <5> ProxyProcessor::DestroyVulcanClient resetting mVulcanClient
+Ticks = 29015      <14636> <dvanet> <5> ProxyProcessor::DestroyVulcanClient resetting mVulcanClient
+Ticks = 241672      <15944> <LoadProject> <0> 0.283532s
+Ticks = 564968      <2208> <LoadProject> <0> 0.190537s
+Ticks = 706234      <2208> <LoadProject> <0> 0.107708s
+Ticks = 1435812      <5020> <EncoderStateH264> <1> Time taken for; video =1151943 audio=13147 mux=13845
+Ticks = 1435812      <5020> <ExporterHost::BeginThreadExport> <5> Exporter finished in : 1403.21 seconds. Result code: 0 Destination:E:\ceo A_1.mp4
+Ticks = 1589750      <9572> <EncoderStateH264> <1> Time taken for; video =132247 audio=1567 mux=2519
+Ticks = 1589750      <9572> <ExporterHost::BeginThreadExport> <5> Exporter finished in : 153.462 seconds. Result code: 0 Destination:E:\ceo B.mp4
+Ticks = 1686968      <4544> <EncoderStateH264> <1> Time taken for; video =84911 audio=1115 mux=871
+Ticks = 1686984      <4544> <ExporterHost::BeginThreadExport> <5> Exporter finished in : 96.457 seconds. Result code: 0 Destination:E:\ceo C.mp4
+Ticks = 2024218      <11908> <EncoderStateH264> <1> Time taken for; video =311385 audio=4870 mux=5062
+Ticks = 2024218      <11908> <ExporterHost::BeginThreadExport> <5> Exporter finished in : 336.571 seconds. Result code: 0 Destination:E:\CEO D.mp4
+Ticks = 2992531      <14636> <AMEApp> <1> Exited RunEventLoop
+Ticks = 2992797      <14636> <dvanet> <5> ProxyProcessor::DestroyVulcanClient resetting mVulcanClient
+Ticks = 2992797      <14636> <dvanet> <5> ProxyProcessor::DestroyVulcanClient resetting mVulcanClient
+Ticks = 2992797      <14636> <dvanet> <5> ProxyProcessor::DestroyVulcanClient resetting mVulcanClient
+Ticks = 2992797      <14636> <dvanet> <5> ProxyProcessor::DestroyVulcanClient resetting mVulcanClient
+Ticks = 2992797      <14636> <dvanet> <5> ProxyProcessor::DestroyVulcanClient resetting mVulcanClient
+Ticks = 2992797      <14636> <dvanet> <5> ProxyProcessor::DestroyVulcanClient resetting mVulcanClient
+Ticks = 2992797      <14636> <dvanet> <5> ProxyProcessor::DestroyVulcanClient resetting mVulcanClient
+Ticks = 2992797      <14636> <dvanet> <5> ProxyProcessor::DestroyVulcanClient resetting mVulcanClient
+Ticks = 2992797      <14636> <dvanet> <5> ProxyProcessor::DestroyVulcanClient resetting mVulcanClient
+Ticks = 2992797      <14636> <dvanet> <5> ProxyProcessor::DestroyVulcanClient resetting mVulcanClient
+Ticks = 2992797      <14636> <dvanet> <5> ProxyProcessor::DestroyVulcanClient resetting mVulcanClient
+Ticks = 2992797      <14636> <dvanet> <5> ProxyProcessor::DestroyVulcanClient resetting mVulcanClient
+Ticks = 2992797      <14636> <dvanet> <5> ProxyProcessor::DestroyVulcanClient resetting mVulcanClient
+Ticks = 2992797      <14636> <dvanet> <5> ProxyProcessor::DestroyVulcanClient resetting mVulcanClient
+Ticks = 2992797      <14636> <dvanet> <5> ProxyProcessor::DestroyVulcanClient resetting mVulcanClient
+Ticks = 2992797      <14636> <dvanet> <5> ProxyProcessor::DestroyVulcanClient resetting mVulcanClient
+Ticks = 2992797      <14636> <dvanet> <5> ProxyProcessor::DestroyVulcanClient resetting mVulcanClient
+Ticks = 2992797      <14636> <dvanet> <5> ProxyProcessor::DestroyVulcanClient resetting mVulcanClient
+Ticks = 2992797      <14636> <dvanet> <5> ProxyProcessor::DestroyVulcanClient resetting mVulcanClient
+Ticks = 2992797      <14636> <dvanet> <5> ProxyProcessor::DestroyVulcanClient resetting mVulcanClient
+Ticks = 2992797      <14636> <dvanet> <5> ProxyProcessor::DestroyVulcanClient resetting mVulcanClient
+Ticks = 2992797      <14636> <dvanet> <5> ProxyProcessor::DestroyVulcanClient resetting mVulcanClient
+Ticks = 2992797      <14636> <dvanet> <5> ProxyProcessor::DestroyVulcanClient resetting mVulcanClient
+Ticks = 2992797      <14636> <dvanet> <5> ProxyProcessor::DestroyVulcanClient resetting mVulcanClient
+Ticks = 2992797      <14636> <dvanet> <5> ProxyProcessor::DestroyVulcanClient resetting mVulcanClient
+Ticks = 2992797      <14636> <dvanet> <5> ProxyProcessor::DestroyVulcanClient resetting mVulcanClient
+Ticks = 2992797      <14636> <dvanet> <5> ProxyProcessor::DestroyVulcanClient resetting mVulcanClient
+Ticks = 2992797      <14636> <dvanet> <5> ProxyProcessor::DestroyVulcanClient resetting mVulcanClient
+-----------------------------------------
+Log file closed: 5/14/2018 8:12:52 PM
+
